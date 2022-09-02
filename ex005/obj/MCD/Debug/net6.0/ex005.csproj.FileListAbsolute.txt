@@ -1,0 +1,15 @@
+C:\Users\user 1\Desktop\Projects\repo\examples\ex005\obj\MCD\Debug\net6.0\ex005.csproj.AssemblyReference.cache
+C:\Users\user 1\Desktop\Projects\repo\examples\ex005\obj\MCD\Debug\net6.0\ex005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user 1\Desktop\Projects\repo\examples\ex005\obj\MCD\Debug\net6.0\ex005.AssemblyInfoInputs.cache
+C:\Users\user 1\Desktop\Projects\repo\examples\ex005\obj\MCD\Debug\net6.0\ex005.AssemblyInfo.cs
+C:\Users\user 1\Desktop\Projects\repo\examples\ex005\obj\MCD\Debug\net6.0\ex005.csproj.CoreCompileInputs.cache
+C:\Users\user 1\Desktop\Projects\repo\examples\ex005\bin\MCD\Debug\net6.0\ex005.exe
+C:\Users\user 1\Desktop\Projects\repo\examples\ex005\bin\MCD\Debug\net6.0\ex005.deps.json
+C:\Users\user 1\Desktop\Projects\repo\examples\ex005\bin\MCD\Debug\net6.0\ex005.runtimeconfig.json
+C:\Users\user 1\Desktop\Projects\repo\examples\ex005\bin\MCD\Debug\net6.0\ex005.dll
+C:\Users\user 1\Desktop\Projects\repo\examples\ex005\bin\MCD\Debug\net6.0\ex005.pdb
+C:\Users\user 1\Desktop\Projects\repo\examples\ex005\obj\MCD\Debug\net6.0\ex005.dll
+C:\Users\user 1\Desktop\Projects\repo\examples\ex005\obj\MCD\Debug\net6.0\refint\ex005.dll
+C:\Users\user 1\Desktop\Projects\repo\examples\ex005\obj\MCD\Debug\net6.0\ex005.pdb
+C:\Users\user 1\Desktop\Projects\repo\examples\ex005\obj\MCD\Debug\net6.0\ex005.genruntimeconfig.cache
+C:\Users\user 1\Desktop\Projects\repo\examples\ex005\obj\MCD\Debug\net6.0\ref\ex005.dll
