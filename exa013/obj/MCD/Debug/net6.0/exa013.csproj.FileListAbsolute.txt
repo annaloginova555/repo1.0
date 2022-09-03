@@ -1,0 +1,15 @@
+C:\Users\user 1\Desktop\Projects\repo\examples\exa013\bin\MCD\Debug\net6.0\exa013.exe
+C:\Users\user 1\Desktop\Projects\repo\examples\exa013\bin\MCD\Debug\net6.0\exa013.deps.json
+C:\Users\user 1\Desktop\Projects\repo\examples\exa013\bin\MCD\Debug\net6.0\exa013.runtimeconfig.json
+C:\Users\user 1\Desktop\Projects\repo\examples\exa013\bin\MCD\Debug\net6.0\exa013.dll
+C:\Users\user 1\Desktop\Projects\repo\examples\exa013\bin\MCD\Debug\net6.0\exa013.pdb
+C:\Users\user 1\Desktop\Projects\repo\examples\exa013\obj\MCD\Debug\net6.0\exa013.csproj.AssemblyReference.cache
+C:\Users\user 1\Desktop\Projects\repo\examples\exa013\obj\MCD\Debug\net6.0\exa013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user 1\Desktop\Projects\repo\examples\exa013\obj\MCD\Debug\net6.0\exa013.AssemblyInfoInputs.cache
+C:\Users\user 1\Desktop\Projects\repo\examples\exa013\obj\MCD\Debug\net6.0\exa013.AssemblyInfo.cs
+C:\Users\user 1\Desktop\Projects\repo\examples\exa013\obj\MCD\Debug\net6.0\exa013.csproj.CoreCompileInputs.cache
+C:\Users\user 1\Desktop\Projects\repo\examples\exa013\obj\MCD\Debug\net6.0\exa013.dll
+C:\Users\user 1\Desktop\Projects\repo\examples\exa013\obj\MCD\Debug\net6.0\refint\exa013.dll
+C:\Users\user 1\Desktop\Projects\repo\examples\exa013\obj\MCD\Debug\net6.0\exa013.pdb
+C:\Users\user 1\Desktop\Projects\repo\examples\exa013\obj\MCD\Debug\net6.0\exa013.genruntimeconfig.cache
+C:\Users\user 1\Desktop\Projects\repo\examples\exa013\obj\MCD\Debug\net6.0\ref\exa013.dll
